@@ -55,9 +55,17 @@ hotel-customer-booking-analysis/
 ---
 
 ## **Power BI Dashboard (Screenshots & GIF)**  
+
+Here is a preview of the interactive dashboard:  
+
+![Dashboard Screenshot](reports/dashboard.png)
+
+
 To showcase interactivity, here’s a **GIF of the dashboard**:  
 
 ![Dashboard Preview](dashboard.gif)  
+
+
 
 📌 **For a detailed view, check the full Power BI file in the repository.**  
 
