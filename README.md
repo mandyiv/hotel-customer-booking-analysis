@@ -91,7 +91,7 @@ git clone https://github.com/mandyiv/hotel-customer-booking-analysis.git
 ## **Author & Contact**  
 👩‍💻 **Amanda Osaikhuwuomwan**  
 📧 [Email Me](mailto:osaiamanda@gmail.com)  
-🔗 [Connect on LinkedIn](linkedin.com/in/amandaosai)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/amandaosai/)  
 
 ---
 
