@@ -61,9 +61,9 @@ Here is a preview of the interactive dashboard:
 ![Dashboard Screenshot](dashboards/dashboard.png)
 
 
-To showcase interactivity, here’s a **GIF of the dashboard**:  
+To showcase interactivity, here’s a **Short Video of the dashboard**:  
 
-![Dashboard Preview](dashboard.gif)  
+![Dashboard Preview](dashboards/dashboard.mp4)  
 
 
 
