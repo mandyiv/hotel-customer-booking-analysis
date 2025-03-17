@@ -58,7 +58,7 @@ hotel-customer-booking-analysis/
 
 Here is a preview of the interactive dashboard:  
 
-![Dashboard Screenshot](reports/dashboard.png)
+![Dashboard Screenshot](dashboards/dashboard.png)
 
 
 To showcase interactivity, here’s a **GIF of the dashboard**:  
